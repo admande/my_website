@@ -17,3 +17,10 @@
  */
  @import "foundation_and_overrides";
  /* Add imports of custom sass/scss files here */
+body {
+  background-color: black;
+}
+h1 {
+  color: $white;
+  font-weight: $font-weight-light;
+}
